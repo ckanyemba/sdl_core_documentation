@@ -1,5 +1,9 @@
 ## 4.2. Components View
 
+
+![C4_Component](https://user-images.githubusercontent.com/95967301/164893437-e6fb093e-4e0d-40f7-ab7b-d0046f2cdbb6.svg)
+
+
 The view is represented by module and subsystem diagrams that show the system's export and import relationships. The Components View diagram and its elements description please see below.
 
 *Note*: UML notation for this Components View diagram is extended: both component and its interfaces are highlighted with the same color.
